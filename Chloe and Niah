@@ -1,0 +1,103 @@
+{
+  "projectId": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+  "htmlFiles": [
+    {
+      "fileId": "1DRRjpZtM6BtvGbIDN_6FxrIS6B43KIi5",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ"
+    },
+    {
+      "fileId": "110dIm3hlJfVsx92avcjJtu8kVAelxcWV",
+      "contentType": "text/html",
+      "name": "Info.html",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This HTML file has been created with Editey"
+    },
+    {
+      "fileId": "1IGx_lyTR7I96CW3_-ruC5z1BjUMp6pAE",
+      "contentType": "text/html",
+      "name": "blog.html",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This HTML file has been created with Editey"
+    },
+    {
+      "fileId": "1ojCw0lrOnk5OUQCeCxDckp181OiZH2KO",
+      "contentType": "text/html",
+      "name": "blog1.html",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This HTML file has been created with Editey"
+    },
+    {
+      "fileId": "1IGqfZSnZKjOFzWh1zVpBtIp7XhtXcpYT",
+      "contentType": "text/html",
+      "name": "News.html",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "1oddD847A0vSsOeQKzufAjzW1XNDUnv5l",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ"
+    },
+    {
+      "fileId": "1WiqbgZBkLLKKlaeEmj6cc3VFz_xH2QdU",
+      "contentType": "text/css",
+      "name": "blog1.css",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This CSS file has been created with Editey"
+    },
+    {
+      "fileId": "1A8t6AW4VESUcs56r7JrI1JsUphIbjZvU",
+      "contentType": "text/css",
+      "name": "info.css",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This CSS file has been created with Editey"
+    },
+    {
+      "fileId": "16rGl6PS88Vo_Ipm2MVPAEc5ceZNZj-FO",
+      "contentType": "text/css",
+      "name": "News.css",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This CSS file has been created with Editey"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "1MOkXcaIyXBCrUXA9gx3Xlgz56Zb2gqiz",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ"
+    },
+    {
+      "fileId": "1tpNamtR8jRdWYirMm8S3KX_agoZl-DEo",
+      "contentType": "text/javascript",
+      "name": "blog.js",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This JAVASCRIPT file has been created with Editey"
+    },
+    {
+      "fileId": "1nnUt2PWWVwQTDAkBFziXPSk1d_u75fyi",
+      "contentType": "text/javascript",
+      "name": "info.js",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This JAVASCRIPT file has been created with Editey"
+    },
+    {
+      "fileId": "14RIkDTkOTDoaBDYhCIK1VphY-8mYCEOf",
+      "contentType": "text/javascript",
+      "name": "news.js",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This JAVASCRIPT file has been created with Editey"
+    },
+    {
+      "fileId": "1UKbz5TK9ehkiDGkmYdMWrA8P9J-ELegl",
+      "contentType": "text/javascript",
+      "name": "sources.js",
+      "path": "1nJLp-AMaoO6uTbTWhyuIqslqk_nhhJVZ",
+      "description": "This JAVASCRIPT file has been created with Editey"
+    }
+  ]
+}
